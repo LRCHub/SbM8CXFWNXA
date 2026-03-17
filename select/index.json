@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "IS THIS LOVE",
   "base_artist": "XG",
-  "createdAt": "2026-02-15T03:23:34.964998Z",
+  "createdAt": "2026-03-17T17:52:15.591924Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -131,6 +131,15 @@
       "artist": "XG",
       "has_synced": false,
       "path": "select/pl_01_IS_THIS_LOVE_XG.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "IS THIS LOVE",
+      "artist": "XG",
+      "has_synced": false,
+      "path": "select/localdb_01_IS_THIS_LOVE_XG.txt",
+      "repo_name": "aHTI0SXGVS0"
     }
   ]
 }
